@@ -438,7 +438,7 @@
     "example": "お客様からクレームが届いた。",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ナイーブ (naibu)",
@@ -446,7 +446,7 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 3)",
     "example": "彼は意外とナイーブな性格だ。",
     "id": 50,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
