@@ -906,7 +906,7 @@
     "jlpt": "N5",
     "id": 101,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "駅の近くに新しいカフェができました。",
@@ -968,7 +968,7 @@
     "english": "This app is easy to use even for beginners.",
     "jlpt": "N3",
     "id": 108,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
